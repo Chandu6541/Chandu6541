@@ -1,80 +1,100 @@
-<h1 align="center">Hi 👋, I'm Kotapati Chandu</h1>
-<h3 align="center">AI Enthusiast | Full-Stack Developer | Problem Solver</h3>
-
+<!-- 🔥 Animated Motto -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FFC1&center=true&width=700&lines=Code.+Learn.+Innovate.+Repeat."/>
 </p>
 
 ---
 
-🚀 I'm a passionate Computer Science graduate with expertise in **AI, full-stack development, and scalable systems**.  
-I enjoy crafting intelligent solutions and automating real-world workflows.  
-Curious, self-driven, and always eager to build with **cutting-edge tools**.
+<h1 align="center">Hi 👋, I'm Kotapati Chandu</h1>
+<h3 align="center">Full-Stack Developer | AI & ML Enthusiast | Cloud Learner</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+</p>
 
 ---
 
-### 🛠️ Tech Toolbox (Only GIFs)
+### 🎯 Who Am I?
+
+💡 A passionate Computer Science graduate who loves to turn ideas into scalable, intelligent solutions.  
+📚 Specializing in **AI**, **Full-Stack Web**, and **Cloud-Native Systems**.  
+🧩 Driven by curiosity, building real-world solutions with cutting-edge tools.
+
+---
+
+### 🤖 What I Aspire To Be
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="220" />
+</p>
+
+🎯 To become a **Creative AI Engineer** blending design thinking with powerful automation.  
+🛠️ Focused on building next-gen apps powered by AI, ML, and beautiful frontend experiences.
+
+---
+
+### 🛠️ Tech Stack (GIF-Only Icons)
 
 #### 💻 Programming & Scripting
-<p align="left">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50"/> <!-- Java -->
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50"/> <!-- Python -->
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50"/> <!-- JavaScript -->
+<p>
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50"/>
 </p>
 
 #### 🌐 Web Development
-<p align="left">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"/> <!-- HTML -->
-  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50"/> <!-- CSS -->
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0x8nD/giphy.gif" width="50"/> <!-- SQL -->
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="50"/> <!-- Node.js -->
-  <img src="https://media.giphy.com/media/hV1e6gx1a5E2PI1K2k/giphy.gif" width="50"/> <!-- Spring Boot -->
+<p>
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0x8nD/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/hV1e6gx1a5E2PI1K2k/giphy.gif" width="50"/>
 </p>
 
-#### 🧠 AI / ML Tools
-<p align="left">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50"/> <!-- TensorFlow -->
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50"/> <!-- Pandas -->
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="50"/> <!-- OpenCV -->
+#### 🧠 AI / ML / Data Science
+<p>
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="50"/>
 </p>
 
-#### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" width="50"/> <!-- Firebase -->
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50"/> <!-- MongoDB -->
+#### ⚙️ Backend & Databases
+<p>
+  <img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50"/>
 </p>
 
 #### 🎨 Frontend Frameworks
-<p align="left">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50"/> <!-- React -->
-  <img src="https://media.giphy.com/media/Rf5CtBGSZer5rZnU9K/giphy.gif" width="50"/> <!-- Angular -->
+<p>
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/Rf5CtBGSZer5rZnU9K/giphy.gif" width="50"/>
 </p>
 
 #### 📱 Mobile Development
-<p align="left">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"/> <!-- Android -->
+<p>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"/>
 </p>
 
 ---
 
-### 🏅 Certifications & Achievements
+### 🏆 Certifications & Achievements
 
-- 🧠 Deep Learning AI Certification (Coursera)  
-- ☁️ Salesforce Certified AI Associate  
-- 🌐 Oracle Cloud Infrastructure 2023 Certified Architect  
-- 🥇 **Secured Top 5 in Gen AI Hackathon**  
-- 📝 Published Research on *Discourse-Coherent Multilingual Argumentation Generation*
+- 📜 Deep Learning Specialization – *Coursera*  
+- 🧠 Salesforce Certified AI Associate  
+- ☁️ Oracle Cloud Infrastructure Architect – 2023  
+- 🧾 Research Publication: *Multilingual Argumentation Generation in NLP*  
+- 🥇 **Top 5 Finalist – Gen AI Hackathon**
 
 ---
 
 ### 📬 Connect With Me
 
-- 📧 [chandukotapati27@gmail.com](mailto:chandukotapati27@gmail.com)  
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/chandu-kotapati-a7884b268)
+- 📧 Email: [chandukotapati27@gmail.com](mailto:chandukotapati27@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/chandu-kotapati-a7884b268](https://www.linkedin.com/in/chandu-kotapati-a7884b268)
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF9F&width=435&lines=Code.+Learn.+Innovate.+Repeat."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F74CFF&center=true&vCenter=true&width=550&lines=Keep+Coding+%F0%9F%94%A5;Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80" />
 </p>
 
