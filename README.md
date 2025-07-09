@@ -37,9 +37,10 @@
 
 #### 💻 Programming & Scripting
 <p>
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50"/> <!-- Python -->
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50"/> <!-- JavaScript -->
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50"/> <!-- Bash -->
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.png" width="50"/> <!-- Java -->
 </p>
 
 #### 🌐 Web Development
@@ -61,18 +62,13 @@
 #### ⚙️ Backend & Databases
 <p>
   <img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nk/giphy.gif" width="50"/>
 </p>
 
 #### 🎨 Frontend Frameworks
 <p>
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50"/>
   <img src="https://media.giphy.com/media/Rf5CtBGSZer5rZnU9K/giphy.gif" width="50"/>
-</p>
-
-#### 📱 Mobile Development
-<p>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"/>
 </p>
 
 ---
@@ -91,10 +87,10 @@
 
 - 📧 Email: [chandukotapati27@gmail.com](mailto:chandukotapati27@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/chandu-kotapati-a7884b268](https://www.linkedin.com/in/chandu-kotapati-a7884b268)
+- 🐙 GitHub: [github.com/Chandu6541](https://github.com/Chandu6541)
 
 ---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F74CFF&center=true&vCenter=true&width=550&lines=Keep+Coding+%F0%9F%94%A5;Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80" />
 </p>
-
